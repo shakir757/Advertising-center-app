@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Реклама центр</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Новости</string>
+    <string name="title_call_back">Обратная связь</string>
+    <string name="title_calculator">Калькулятор</string>
+
+    <string name="citation">«Вести бизнес без рекламы ― всё равно что подмигивать девушкам в полной темноте»</string>
+
+    <string name="text_printer">Широкоформатная печать</string>
+    <string name="text_letter">Световые вывески и 3D буквы</string>
+    <string name="text_business_card">Визитки и листовки</string>
+    <string name="text_open">Таблички и стенды</string>
+    <string name="text_cup">Сувенирная продукция</string>
+    <string name="text_tshirt">Печать на одежде</string>
+    <string name="text_macbook">Разработка IT-продуктов</string>
+</resources>
